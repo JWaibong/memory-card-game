@@ -6,6 +6,7 @@ import Scoreboard from './components/Scoreboard'
 export const OnClickContext = React.createContext();
 
 // note to self, there are reserved properties for jsx elements, onClick being one of them.
+// test comment
 function App() {
 
 
